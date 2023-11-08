@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "59F13461-2D52-4B9C-A0D2-E5ECF474898F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBF8B052-EC70-4EA4-9E6B-70DBD619EA5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I Like It/Data/DataModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "CBF8B052-EC70-4EA4-9E6B-70DBD619EA5B - facf92c5cff3a310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for items"
+                  moduleName = "I Like It"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickgibson/Documents/I%20Like%20It/I%20Like%20It/Data/DataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "CBF8B052-EC70-4EA4-9E6B-70DBD619EA5B - 214f2d6532a8e23d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Like_It.items.unsafeMutableAddressor : Swift.Array&lt;I_Like_It.Item&gt;"
+                  moduleName = "I Like It"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickgibson/Documents/I%20Like%20It/I%20Like%20It/Data/DataModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

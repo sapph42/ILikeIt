@@ -1,0 +1,57 @@
+{
+  "items": [
+    {
+      "name": "Grocery",
+      "items": [
+        {
+          "name": "Frozen Entrees",
+          "items": [
+            {
+              "name": "Crispy Honey Shrimp",
+              "brand_name": "P.F. Changs",
+              "liked": true,
+              "item_notes": "Good flavor, and texture. Easy to make"
+            },
+            {
+              "name": "Bourbon Chicken Pasta (bag)",
+              "brand_name": "Zatarain's",
+              "liked": true,
+              "item_notes": "Tasty. Easy to make"
+            },
+            {
+              "name": "Bourbon Chicken Pasta (box)",
+              "brand_name": "Zatarain's",
+              "liked": false,
+              "item_notes": "Wrong pasta, bad sauce"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Restaurants",
+      "items": [
+        {
+          "name": "Checkers",
+          "items": [
+            {
+              "name": "Fries",
+              "liked": true,
+              "item_notes": "Well seasoned. Cronch"
+            }
+          ]
+        },
+        {
+          "name": "Waffle House",
+          "items": [
+            {
+              "name": "Texas Cheesesteak Plate",
+              "liked": true,
+              "item_notes": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
